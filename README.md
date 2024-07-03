@@ -12,7 +12,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/dharanidharatdd/MedMax.git
+git clone https://github.com/saribanavath/Medmax
 cd MedMax
 Install requirements:
 
